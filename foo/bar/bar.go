@@ -3,5 +3,5 @@ package bar
 import "fmt"
 
 func Print() {
-	fmt.Println("bar01")
+	fmt.Println("bar02")
 }
